@@ -1,0 +1,27 @@
+
+body{background-color:#eaf6f6;}
+
+h1{
+  color: #66bfbf;
+  font-style: italic;
+  font-size: 40px;
+}
+h3{
+  color:#66bfbf;
+  font-style: oblique;
+}
+
+img:hovar {
+  background-color: gold;
+
+}
+
+
+
+hr{background-color: white;
+border-style: none;
+border-top: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
